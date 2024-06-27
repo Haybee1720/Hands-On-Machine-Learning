@@ -1,6 +1,6 @@
 | S No | Project Name | Domain | Repository | End-to-End |
 | ------------ | -------------- | ---------- | --------- | --------- |
-| 01 | Airbnb Price Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Airbnb-Price-Prediction) | <p align="center">✔</p> |
+| 01 | Airbnb Price Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/Haybee1720/End-to-End-Airbnb-Price-Prediction.git) | <p align="center">✔</p> |
 | 02 | Article Scraper | Web Scraping | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Article-Web-Scraping) | 
 | 03 | Boston House Price Prediction | Regression | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/House-Price-Prediction) |  <p align="center">✔</p> |
 | 04 | Chatbot using Gemini Pro | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/Gemini-ChatBot) | 
